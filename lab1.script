@@ -1,0 +1,22 @@
+命令稿啟動於 2018年03月14日 下午 02:13:00
+w]0;~
+[32muser@asus [33m~[0m
+$ whoami;pwd
+user
+/home/user
+]0;~
+[32muser@asus [33m~[0m
+$ git config -l
+user.email=carolwo871109@gmail.com
+user.name=carolwo
+]0;~
+[32muser@asus [33m~[0m
+$ gti [K[K[Kit config [K[K[K[K[K[Klone https://github.com/carolwo/lab1.script[K[K[K[K[K[Kgit
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+]0;~
+[32muser@asus [33m~[0m
+$ exit
+
+命令稿已於 2018年03月14日 下午 02:14:59
+ 完成
